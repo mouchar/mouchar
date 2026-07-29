@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<h3>🔥 Statistics:</h3>
-<img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouchar&langs_count=4&layout=compact"/>
-
-<img alt="My streak" src="http://github-readme-streak-stats.herokuapp.com?user=mouchar"/> 
-
-<img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=mouchar&title=MultiLanguage,LongTimeUser,Commits,Experience,PullRequest,Repositories,Issues,Reviews&no-frame=true&margin-w=10"/>
-<!-- img alt="My Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mouchar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/-->
 
 
 <!--
